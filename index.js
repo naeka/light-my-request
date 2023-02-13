@@ -165,3 +165,5 @@ module.exports = inject
 module.exports.default = inject
 module.exports.inject = inject
 module.exports.isInjection = isInjection
+module.exports.Request = Request
+module.exports.CustomRequest = Request.CustomRequest
